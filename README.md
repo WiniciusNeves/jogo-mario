@@ -15,11 +15,11 @@ Você pode baixar o jogo clicando no link abaixo:
 - Toda a parte de **scripts em C#**
 - A lógica de gameplay e funcionamento do jogo
 - Controle de personagens / inimigos / logica
-- Gerenciamento de cenas e UI *(se aplicável)*
+- Gerenciamento de cenas e UI 
 
 ## 💡 Tecnologias Utilizadas
 
-- **Unity** (versão utilizada: `202X.X.X`) *(insira a versão que usou)*
+- **Unity** 
 - **C#**
 
 ## 📸 Capturas de Tela 
